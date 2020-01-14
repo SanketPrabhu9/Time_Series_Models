@@ -1,0 +1,2 @@
+# Time_Series_Models
+MA, SINGLE EXPONENTIAL, ARIMA 
